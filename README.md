@@ -53,17 +53,6 @@ A **full-stack real estate platform** that scrapes property listings from multip
  https://github.com/Akash-715/Realty-Project
 
 ---
-
-## LeetCode
-<p align="center">
-  <img 
-    src="https://leetcard.jacoblin.cool/Akash_RS?theme=dark&font=JetBrains+Mono&ext=stats&border=2&radius=12" 
-    alt="LeetCode Pie Chart Stats"
-  />
-</p>
-
-
----
 ## GitHub Stats
 
 <p align="center">
