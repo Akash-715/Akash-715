@@ -2,8 +2,6 @@
 
 ### Full Stack Developer | JavaScript | React | Node.js | Expess.js | Web Scraping
 
-> I love building **interactive, user-focused web applications** and solving real-world problems by combining **frontend creativity** and **backend logic**.
-
 ---
 
 ## Profile Views
